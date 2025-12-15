@@ -1,0 +1,25 @@
+
+# Core Data Processing
+numpy
+pandas
+
+# Machine Learning & Deep Learning
+tensorflow
+keras 
+
+# Model Persistence
+joblib
+
+# Data Preprocessing & Evaluation
+scikit-learn
+scipy 
+# Diperlukan untuk filtering sinyal (misalnya, baseline correction)
+imblearn 
+# Diperlukan untuk oversampling/SMOTE
+
+# Aplikasi Web Deployment
+streamlit
+
+# Visualisasi (Diperlukan jika Anda menjalankan plot di lingkungan deployment)
+matplotlib
+seaborn
